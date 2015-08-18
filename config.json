@@ -1,0 +1,22 @@
+{
+    "method_config":
+        {
+			"partial_method": "smith",
+			"parameters":
+				{
+					"threshold": "0.50"
+				}
+        },
+    "input_config":
+        {
+            "id_field":"uri",
+            "path":"query_string",
+            "tokenizer":","
+        },
+    "output_config":
+        {
+            "filter":"count",
+            "num_candidates":"1",
+            "score_threshold":".3"
+        }
+}
