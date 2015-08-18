@@ -1,7 +1,7 @@
 {
     "method_config":
         {
-			"partial_method": "smith",
+			"partial_method": "jaro",
 			"parameters":
 				{
 					"threshold": "0.50"
@@ -11,7 +11,7 @@
         {
             "id_field":"uri",
             "path":"query_string",
-            "tokenizer":","
+            "tokenizer":"\\s"
         },
     "output_config":
         {

@@ -135,19 +135,20 @@ class HybridJaccard:
         with open(sys.argv[1]) as inputFile:
             for jsonObj in inputFile:
                 data = json.loads(jsonObj)
-                queryString = data["uri"]["alternateName"]["alternateName"]
+                queryString = data["name"]
                 queryFields = queryString.split(self.inputTokenizer)
                 candidates = []
                 for i in range(len(data["candidates"])):
-                    if isinstance(data["candidates"][i]["alternateName"], list):
-                        print ""
-                        for candValue in data["candidates"][i]["alternateName"]:
-                            candidateFields = candValue.split(self.inputTokenizer)
+                    if isinstance(data["candidates"][i]["name"], list):
+                        for candValue in data["candidates"][i]["name"]:
+                            candidateFields = re.split(self.inputTokenizer, candValue)
+                            print candidateFields
                             score = sm.sim_measure(candidateFields, queryFields)
                             candidates.append([data["candidates"][i]["uri"].encode('ascii', 'ignore'), score])
                             del candidateFields[:]
                     else:
-                        candidateFields = data["candidates"][i]["alternateName"].split(self.inputTokenizer)
+                        candidateFields = re.split(self.inputTokenizer, data["candidates"][i]["name"])
+                        print candidateFields
                         score = sm.sim_measure(candidateFields, queryFields)
                         candidates.append([data["candidates"][i]["uri"].encode('ascii', 'ignore'), score])
                         del candidateFields[:]
@@ -156,8 +157,8 @@ class HybridJaccard:
                 if self.outputFilter == "count":
                     candidates = candidates[:self.numCand]
                 else:
-                    candidates = [t for t in candidates if t[1] < self.scoreThr]
-                print >>outputFile, str(json.dumps(self.generateJson(data["uri"]["uri"],
+                    candidates = [t for t in candidates if t[1] > self.scoreThr]
+                print >>outputFile, str(json.dumps(self.generateJson(data["uri"],
                                                      candidates, "matches")))
                 del candidates[:]
                 #print str(data["query_location"]["uri"]) + "\t" + temp_id + "\t" + str(max_score)
