@@ -1,0 +1,8 @@
+#!/bin/sh
+
+temp=`ls ../output_tfidf/ | grep "json"`
+for fname in $temp 
+do
+	echo $fname
+	python HybridJaccard.py ../output_tfidf/$fname > ../output_jaccard/$fname
+done
