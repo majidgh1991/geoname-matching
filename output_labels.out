@@ -1,0 +1,373 @@
+country: missing, state: complete match, city: partial match/typo
+weapons_string
+boston massachusetts united states 
+	boston,massachusetts,united states: 
+country: complete match, state: complete match, city: complete match
+prior lake minneapolis st. paul minnesota 
+	minneapolis,minnesota,united states: 
+country: missing, state: complete match, city: complete match
+east end hwy 42 louisville kentucky 
+	louisville,kentucky,united states: 
+country: missing, state: complete match, city: complete match
+east okc oklahoma city oklahoma 
+	cathair oklahoma,oklahoma,united states: 
+country: missing, state: complete match, city: missing
+powhatan richmond virginia 
+	richmond,virginia,united states: 
+country: missing, state: complete match, city: complete match
+tempe - asu phoenix arizona 
+	phoenix,arizona,united states: 
+country: missing, state: complete match, city: complete match
+beaufort south carolina united states 
+	,south carolina,united states: 
+country: complete match, state: complete match, city: partial match/typo
+campus bozeman montana 
+	bozeman,montana,united states: 
+country: missing, state: complete match, city: complete match
+east lv las vegas nevada 
+	east las vegas,nevada,united states: 
+country: missing, state: complete match, city: partial match/typo
+saint louis st. louis missouri 
+	saint louis,missouri,united states: 
+country: missing, state: complete match, city: complete match
+st. louis st. louis missouri 
+	saint louis,missouri,united states: 
+country: missing, state: complete match, city: missing
+deatsville montgomery alabama 
+	deatsville,alabama,united states: 
+country: missing, state: complete match, city: complete match
+parker colorado united states 
+	parker,colorado,united states: 
+country: complete match, state: complete match, city: complete match
+shady cove medford oregon 
+	shady cove,oregon,united states: 
+country: missing, state: complete match, city: complete match
+deland deltona debary orange city orlando florida 
+	orlando i florida,florida,united states: 
+country: missing, state: complete match, city: missing
+chesapeake hampton roads virginia 
+	chesapeake,virginia,united states: 
+country: missing, state: complete match, city: complete match
+north orlando orlando florida 
+	orlando i florida,florida,united states: 
+country: missing, state: complete match, city: missing
+plano dallas texas 
+	plano,texas,united states: 
+country: missing, state: complete match, city: complete match
+fairfield twp. cincinnati ohio 
+	fairfield,ohio,united states: 
+country: missing, state: complete match, city: complete match
+florence ky kentucky united states 
+	florence,kentucky,united states: 
+country: complete match, state: complete match, city: complete match
+pelham birmingham alabama 
+	birmingham i alabama,alabama,united states: 
+country: missing, state: complete match, city: missing
+petoskey northern lower peninsula michigan 
+	petoskey,michigan,united states: 
+country: missing, state: complete match, city: complete match
+woodinville seattle washington 
+	woodinville,washington,united states: 
+country: missing, state: complete match, city: complete match
+2573 gentery mem hwy pickens sc 29671 greenville south carolina 
+	greenville,south carolina,united states: 
+country: missing, state: complete match, city: complete match
+central greensboro north carolina 
+	greensboro,north carolina,united states: 
+country: missing, state: complete match, city: complete match
+ontario california united states 
+	ontario,california,united states: 
+country: complete match, state: complete match, city: complete match
+ramsey minneapolis st. paul minnesota 
+	minneapolis,minnesota,united states: 
+country: missing, state: complete match, city: complete match
+north new mexico united states 
+loveland fort collins colorado 
+	fort kollins,colorado,united states: 
+country: missing, state: complete match, city: partial match/typo
+marysville everett washington 
+	marysville,washington,united states: 
+country: missing, state: complete match, city: complete match
+north georgia dalton georgia 
+	dalton,georgia,united states: 
+country: missing, state: complete match, city: complete match
+south east virginia virginia united states 
+tempe phoenix arizona 
+	phoenix,arizona,united states: 
+country: missing, state: complete match, city: complete match
+summerville charleston south carolina 
+	charleston i sorcarolina,south carolina,united states: 
+country: missing, state: complete match, city: missing
+huntington beach orange county california 
+	huntington beach,california,united states: 
+country: missing, state: complete match, city: complete match
+beaverton portland oregon 
+	beaverton,oregon,united states: 
+country: missing, state: complete match, city: complete match
+yuba city - lincoln - roseville - n. sac sacramento california 
+	sacramento stad,california,united states: 
+country: missing, state: complete match, city: missing
+forest grove portland oregon 
+	forest grouv,oregon,united states: 
+country: missing, state: complete match, city: partial match/typo
+forest grove portland oregon 
+	portland i oregon,oregon,united states: 
+country: missing, state: complete match, city: missing
+mt. pleasant milwaukee wisconsin 
+	mount pleasant,wisconsin,united states: 
+country: missing, state: complete match, city: missing
+georgia georgia united states 
+northeast side of indy indianapolis indiana 
+	indianapolis,indiana,united states: 
+country: missing, state: complete match, city: missing
+brookwood tuscaloosa alabama 
+	brookwood,alabama,united states: 
+country: missing, state: complete match, city: complete match
+hampton new hampshire united states 
+	hampton,new hampshire,united states: 
+country: complete match, state: complete match, city: complete match
+denver denver colorado 
+	denver,colorado,united states: 
+country: missing, state: complete match, city: complete match
+indiana indiana united states 
+northeast geist indianapolis indiana 
+	geist woods,indiana,united states: 
+country: missing, state: complete match, city: missing
+online florida texas united states 
+sullivan terre haute indiana 
+	sullivan,indiana,united states: 
+country: missing, state: complete match, city: complete match
+huntsville huntsville alabama 
+	huntsville,alabama,united states: 
+country: missing, state: complete match, city: complete match
+ne jackson jackson mississippi 
+	jackson i mississippi,mississippi,united states: 
+country: missing, state: complete match, city: missing
+colorado springs colorado springs colorado 
+	kolorado springs,colorado,united states: 
+country: missing, state: complete match, city: missing
+defiance toledo ohio 
+	defiance,ohio,united states: 
+country: missing, state: complete match, city: complete match
+oklahoma city nw expressway and macauthur oklahoma city oklahoma 
+	dinas oklahoma,oklahoma,united states: 
+country: missing, state: complete match, city: missing
+sw roanoke city roanoke virginia 
+	roanoke,virginia,united states: 
+country: missing, state: complete match, city: complete match
+sw roanoke city roanoke virginia 
+	roanoke,virginia,united states: 
+country: missing, state: complete match, city: complete match
+west des moines iowa 
+	west des moines,iowa,united states: 
+country: missing, state: complete match, city: complete match
+central wichita kansas 
+	wichita,kansas,united states: 
+country: missing, state: complete match, city: complete match
+1400 w battlefield rd springfield missouri 
+	springfield,missouri,united states: 
+country: missing, state: complete match, city: complete match
+(brookhaven) atlanta georgia 
+	gorad atlanta,georgia,united states: 
+country: missing, state: complete match, city: missing
+(brookhaven) atlanta georgia 
+	gorad atlanta,georgia,united states: 
+country: missing, state: complete match, city: missing
+okaloosa county okaloosa county florida 
+kentucky kentucky united states 
+grand haven grand rapids michigan 
+	grand rapidsas,michigan,united states: 
+country: missing, state: complete match, city: partial match/typo
+reno reno nevada 
+	reno,nevada,united states: 
+country: missing, state: complete match, city: complete match
+lilburn atlanta georgia 
+	lilburn,georgia,united states: 
+country: missing, state: complete match, city: complete match
+selma medford oregon 
+	selma,oregon,united states: 
+country: missing, state: complete match, city: complete match
+nw suburbs illinois united states 
+crawfordsville indiana united states 
+	crawfordsville,indiana,united states: 
+country: complete match, state: complete match, city: complete match
+coshocton ohio united states 
+	coshocton,ohio,united states: 
+country: complete match, state: complete match, city: complete match
+virginia beach hampton roads virginia 
+	vijini beach,virginia,united states: 
+country: missing, state: complete match, city: missing
+oakdale minneapolis st. paul minnesota 
+	oakdale,minnesota,united states: 
+country: missing, state: complete match, city: complete match
+hendersonville asheville north carolina 
+	asheville,north carolina,united states: 
+country: missing, state: complete match, city: complete match
+apache lawton lawton oklahoma 
+	apache,oklahoma,united states: 
+country: missing, state: complete match, city: complete match
+dunedin tampa st. pete florida 
+	gorad tampa,florida,united states: 
+country: missing, state: complete match, city: missing
+northern wi northern wi wisconsin 
+yorktown hampton roads virginia 
+	yorktown i virginia,virginia,united states: 
+country: missing, state: complete match, city: missing
+sapulpa tulsa oklahoma 
+	sapulpa,oklahoma,united states: 
+country: missing, state: complete match, city: complete match
+lincoln nebraska united states 
+	lincoln,nebraska,united states: 
+country: complete match, state: complete match, city: complete match
+seattle seattle washington 
+	seattle,washington,united states: 
+country: missing, state: complete match, city: complete match
+chesterfield detroit michigan 
+	chesterfield,michigan,united states: 
+country: missing, state: complete match, city: complete match
+jeffersontown louisville kentucky 
+	louisville,kentucky,united states: 
+country: missing, state: complete match, city: complete match
+1818 oleander dr wilmington north carolina 
+	wilmington,north carolina,united states: 
+country: missing, state: complete match, city: complete match
+cleveland chattanooga tennessee 
+	chattanooga,tennessee,united states: 
+country: missing, state: complete match, city: complete match
+spartanburg greenville south carolina 
+	greenville,south carolina,united states: 
+country: missing, state: complete match, city: complete match
+jackson mi lansing michigan 
+	jackson,michigan,united states: 
+country: missing, state: complete match, city: complete match
+high ridge-mo st. louis missouri 
+	saint louis,missouri,united states: 
+country: missing, state: complete match, city: missing
+greensboro greensboro north carolina 
+	greensboro,north carolina,united states: 
+country: missing, state: complete match, city: complete match
+tulsa tulsa oklahoma 
+	tulsa,oklahoma,united states: 
+country: missing, state: complete match, city: complete match
+clarksville clarksville tennessee 
+	clarksville,tennessee,united states: 
+country: missing, state: complete match, city: complete match
+monroeville - east pittsburgh pennsylvania 
+	monroeville,pennsylvania,united states: 
+country: missing, state: complete match, city: complete match
+aurora denver colorado 
+	aurora,colorado,united states: 
+country: missing, state: complete match, city: complete match
+metro st. louis missouri 
+	saint louis,missouri,united states: 
+country: missing, state: complete match, city: missing
+colorado springs colorado springs colorado 
+	kolorado springs,colorado,united states: 
+country: missing, state: complete match, city: missing
+scottsdale phoenix arizona 
+	scottsdale,arizona,united states: 
+country: missing, state: complete match, city: complete match
+washington greenville north carolina 
+	washington,north carolina,united states: 
+country: missing, state: complete match, city: complete match
+denver denver colorado 
+	denver,colorado,united states: 
+country: missing, state: complete match, city: complete match
+kenosha near i 94 and 142 kenosha wisconsin 
+	kenosha,wisconsin,united states: 
+country: missing, state: complete match, city: complete match
+culpeper northern virginia virginia 
+	culpeper,virginia,united states: 
+country: missing, state: complete match, city: complete match
+chelsea birmingham alabama 
+	chelsea,alabama,united states: 
+country: missing, state: complete match, city: complete match
+elyria cleveland ohio 
+	cleveland,ohio,united states: 
+country: missing, state: complete match, city: complete match
+east stroudsburg east stroudsburg pennsylvania 
+	east stroudsburg,pennsylvania,united states: 
+country: missing, state: complete match, city: complete match
+milwaukee milwaukee wisconsin 
+	milwaukee,wisconsin,united states: 
+country: missing, state: complete match, city: complete match
+oklahoma oklahoma united states 
+	lungsod ng oklahoma,oklahoma,united states: 
+country: complete match, state: complete match, city: missing
+11th &amp; memorial tulsa oklahoma 
+	tulsa,oklahoma,united states: 
+country: missing, state: complete match, city: complete match
+north austin pflugerville austin texas 
+	austin,texas,united states: 
+country: missing, state: complete match, city: complete match
+eastside of cincy cincinnati ohio 
+	cincinnati,ohio,united states: 
+country: missing, state: complete match, city: complete match
+eastgate cincinnati ohio 
+	eastgate,ohio,united states: 
+country: missing, state: complete match, city: complete match
+azle dallas texas 
+	azle,texas,united states: 
+country: missing, state: complete match, city: complete match
+norwalk downey lynwood los angeles california 
+	downey,california,united states: 
+country: missing, state: complete match, city: complete match
+moberly mo missouri united states 
+	moberly,missouri,united states: 
+country: complete match, state: complete match, city: complete match
+dunlap chattanooga tennessee 
+	dunlap,tennessee,united states: 
+country: missing, state: complete match, city: complete match
+woodbury minneapolis st. paul minnesota 
+	woodbury,minnesota,united states: 
+country: missing, state: complete match, city: complete match
+banner elk nc raleigh durham ch north carolina 
+	banner elk,north carolina,united states: 
+country: missing, state: complete match, city: complete match
+tulsa tulsa oklahoma 
+	tulsa,oklahoma,united states: 
+country: missing, state: complete match, city: complete match
+sek and neo southeast ks kansas 
+lakewood tacoma washington 
+	lakewood,washington,united states: 
+country: missing, state: complete match, city: complete match
+jacksonville jacksonville florida 
+	jacksonville,florida,united states: 
+country: missing, state: complete match, city: complete match
+wayne county rochester new york 
+3866 maizeland rd colorado springs co 80909 colorado springs colorado 
+	kolorado springs,colorado,united states: 
+country: missing, state: complete match, city: missing
+overland st. louis missouri 
+	overland,missouri,united states: 
+country: missing, state: complete match, city: complete match
+rushville indiana united states 
+	rushville,indiana,united states: 
+country: complete match, state: complete match, city: complete match
+mattoon il champaign urbana illinois 
+	mattoon,illinois,united states: 
+country: missing, state: complete match, city: complete match
+henderson raleigh durham ch north carolina 
+	durham,north carolina,united states: 
+country: missing, state: complete match, city: complete match
+lyndon louisville kentucky 
+	lyndon,kentucky,united states: 
+country: missing, state: complete match, city: complete match
+attalla alabama united states 
+	attalla,alabama,united states: 
+country: complete match, state: complete match, city: complete match
+south macon georgia 
+	macon,georgia,united states: 
+country: missing, state: complete match, city: complete match
+arlington jacksonville florida 
+	arlington,florida,united states: 
+country: missing, state: complete match, city: complete match
+north everett washington 
+	everett,washington,united states: 
+country: missing, state: complete match, city: complete match
+vancouver wa southwest washington washington 
+	vancouver,washington,united states: 
+country: missing, state: complete match, city: complete match
+englewood denver colorado 
+	englewood,colorado,united states: 
+country: missing, state: complete match, city: complete match
