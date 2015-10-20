@@ -1,3 +1,0 @@
-{"uri":"testuri1","name":"john smith", "candidates":[{"uri":"testuri2","name":"johny r. smith","score":"0.9493271"}]}
-{"uri":"testuri1","name":"john smith", "candidates":[{"uri":"testuri2","name":"john r. smith","score":"0.9493271"}]}
-{"uri":"testuri1","name":"john smith", "candidates":[{"uri":"testuri2","name":"johny smith","score":"0.9493271"}]}
